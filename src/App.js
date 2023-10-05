@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-import "./syles/main.css";
+import "./styles/main.css";
 
 import PageHeader from "./components/header/PageHeader";
 import LinksBlock from "./components/links/LinksBlock";
